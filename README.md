@@ -1,29 +1,18 @@
 
-# Hyggex-Digital-Services-Private-Limited-Task
+# Hyggex-job-intern
 
 ## Demo
 
 https://hyggex-digital-services-private-limited-task.vercel.app/
 
-
-
-## Authors
-
-- [@svivek19](https://www.github.com/svivek19)
-
+@sonia09-coder
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/svivek19/Hyggex-Digital-Services-Private-Limited-Task.git
-```
-
-Go to the project directory
-
-```bash
-  cd Hyggex-Digital-Services-Private-Limited-Task
+  git clone https://github.com/sonia09-coder/Hyggex-job-intern.git
 ```
 
 Install dependencies
@@ -39,5 +28,5 @@ Start the server
 ```
 
 
-## 🛠 Skills
+## Skills
 React JS, Tailwind CSS, NPM Package, Vercel Hosting
